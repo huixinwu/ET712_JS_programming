@@ -6,3 +6,13 @@ Initialized empty Git repository in C:/Users/Instructor/Desktop/lab0_Gitlab/.git
 Lab Part 3 – Check Repository Status
 1. What color is the filename?
 2. What does "Untracked" mean?
+
+Lab Part 4 – Stage Changes
+1. Why do you think Git requires a staging area?
+
+Lab Part 5 – Commit Changes
+1. What is the commit message?
+2. What is display after running git log?
+
+Lab Part 8 – Make Another Change
+1. Do you see the changes in the remote repository?
