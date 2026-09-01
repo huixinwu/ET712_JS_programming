@@ -1,0 +1,8 @@
+Lab Part 1 - create a repository
+1. What message appears after running git init?
+Initialized empty Git repository in C:/Users/Instructor/Desktop/lab0_Gitlab/.git/
+2. What hidden folder was created?
+
+Lab Part 3 – Check Repository Status
+1. What color is the filename?
+2. What does "Untracked" mean?
