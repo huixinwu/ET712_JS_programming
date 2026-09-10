@@ -1,0 +1,58 @@
+* {
+    color: rgb(51, 0, 255);
+}
+h1.title{ color:darkolivegreen;
+    text-align: center;
+    font-family: 'arial black';
+}
+p#subtitle{
+    text-align: right;
+    color: blueviolet;
+    font-size: 20px;
+}
+.course , #subtitle{
+    font-family: algerian;
+}
+h1.title::first-letter{
+    color:blueviolet;
+    font-size: 40px;
+}
+.font1 {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: left;
+    text-shadow: -10px -10px 2px #be5518;
+}
+
+.font2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 5px 5px 6px #38c642;
+}
+
+.font3 {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: right;
+    text-shadow: 1px 1px 1px #aaa;
+}
+.pageborder, .pageborder1 ,.pageborder2{
+    font-size: 30px;
+    border: inset 10px crimson ;
+}
+.pageborder{
+    margin-left: 150px;
+    padding-top: 100px;
+}
+.pageborder1{
+    margin: 100px;
+    padding: 50px;
+}
+.pageborder2{
+    margin: 50px 150px;
+    padding: 1.5rem 80px;
+}
